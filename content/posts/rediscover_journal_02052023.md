@@ -1,7 +1,7 @@
 ---
 title: "Rediscover journal(4May23) : Deploying MLFlow into containers"
 date: 2023-05-04T10:15:27+08:00
-tags: ['blog']
+tags: ['docker', 'kubernetes', 'mlops', 'production', ,'mlflow']
 ---
 
 Hi! If you’re reading this, welcome! This is my personal journalling during my job search journey by writing down what I’m currently working on and learning, especially relating to computer science-y stuff like mlops, VR and more. To learn more about my backstory, please navigate to “Me today”. If you like this article, give it a share on your linkedin! It’ll help me a ton with my job search. Thank you!

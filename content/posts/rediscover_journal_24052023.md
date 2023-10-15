@@ -1,7 +1,7 @@
 ---
 title: "Rediscovery Journal (20May’23): Learning Transformer (and Vision Transformer)"
 date: 2023-05-24T10:15:27+08:00
-tags: ['blog']
+tags: [ 'machine learning', 'learning']
 ---
 
 Transformer has been one of the big turning point in Deep learning history, on par with ImageNet, CNN, GAN, and attention modules. I’ve never gotten the opportunity to experiment and deploy them in my previous workplace, so this is a good chance to get myself up to date.

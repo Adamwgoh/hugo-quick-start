@@ -1,7 +1,7 @@
 ---
 title: "On Upskilling and surviving a hard time"
 date: 2023-05-03T18:15:27+08:00
-tags: ['blog']
+tags: ['life']
 ---
 
 It's been more than a year since I left my full time job to pursue art. After 5 years in the same company giving as much as I can, I decided to give my childhood dream a go: to be an artist. I vaguely remember how odd of a request it was, and how many people told me that I was brave. How they enjoy art too, but with existing commitment and risk/reward analysis, they just dont think it was a thing for them.

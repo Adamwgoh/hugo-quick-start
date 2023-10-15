@@ -1,7 +1,7 @@
 ---
 title: "Rediscover journal(10May23) : Kubernetes Tooling"
 date: 2023-05-04T10:15:27+08:00
-tags: ['blog']
+tags: ['learning', 'kubernetes', 'devops']
 ---
 
 Kubernetes has undoubtedly become the go-to container orchestration tool for developers and IT teams. With its ease of use, scalability, and flexibility, Kubernetes has revolutionized the way applications are built and deployed. However, managing Kubernetes clusters can be a daunting task, especially for those who are new to the platform. This is where Kubernetes tooling comes in.
