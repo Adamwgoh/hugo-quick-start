@@ -1,7 +1,7 @@
 ---
 title: "Rediscover journal(04May23) : Learning Kubernetes Basics"
 date: 2023-05-04T10:15:27+08:00
-tags: ['blog']
+tags: ['docker', 'kubernetes', 'devops', 'learning']
 ---
 Now that the service and training has been dockerized, its time to get familiar with kubernetes terms and learning to read its declarative yaml syntaxes. This post will be extremely basics, as it goes through the fundamentals of kubernetes, and how I attempt to relate it back to my project.
 

@@ -1,7 +1,7 @@
 ---
 title: "The rare chance to start again"
 date: 2021-09-23T22:49:27+08:00
-tags: ['blog']
+tags: ['life']
 ---
 
 Recently a colleague of mine decided to leave after 6 months with us to be back with his family in Spain. He missed home, and the social costs of lockdown here in Singapore did not help much with his introduction to such a drastic culture difference either. One thing that our team lead mentioned, and has been quite prominent was, "Take it as a fresh start. Opportunity to start over don't come often"

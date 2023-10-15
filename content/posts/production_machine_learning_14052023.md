@@ -1,7 +1,7 @@
 ---
 title: "Production Machine Learning (14 May 2023)"
 date: 2023-05-14T10:15:27+08:00
-tags: ['blog']
+tags: ['production', 'machine learning', 'reading']
 ---
 
 # Production Machine Learning

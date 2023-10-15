@@ -1,7 +1,7 @@
 ---
 title: "BERT based Semantic Search (12 June 2023)"
 date: 2023-06-09T10:15:27+08:00
-tags: ['blog']
+tags: ['nlp', 'machine learning']
 ---
 
 Previously, we looked at building a semantic search engine using TF-IDF matrix as its embeddings. In this post, we will look into using BERT embeddings for our similarity search
